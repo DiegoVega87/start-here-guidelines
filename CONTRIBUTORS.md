@@ -90,6 +90,8 @@
 
 - [@Amrindra](https://github.com/Amrindra)
 
+- [@DiegoVega87](https://github.com/DiegoVega87)
+
 - [@countOfMonteCristo13] (https://github.com/countOfMonteCristo13)
 
 - [@Euan-J-Austin] (https://github.com/Euan-J-Austin/)
